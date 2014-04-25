@@ -6,7 +6,7 @@ TEST	test02
 
 test3
 aaaa
-aaaa
+aaaa			テスト
 aaaa
 aaaa
 aaaa
@@ -30,3 +30,5 @@ aaaa
 aaaa
 aaaa
 aaaaaaaaaaaaa
+
+test-b
