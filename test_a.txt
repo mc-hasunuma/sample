@@ -1,12 +1,32 @@
 TEST
 TEST	test01
-
 TEST	test02
 
-<<<<<<< HEAD
-あああああああああああああああああああ
+あああああああああああああああ test4 ああああ
 
 test3
-=======
-あああああああああああああああ test4 ああああ
->>>>>>> origin/test02
+aaaa
+aaaa
+aaaa
+aaaa
+aaaa
+aaaa
+aaaa
+aaaa
+aaaa
+aaaa
+aaaa
+aaaa
+aaaa
+aaaa
+aaaa
+aaaa
+aaaa
+aaaa
+aaaa
+aaaa
+aaaa
+aaaa
+aaaa
+aaaa
+aaaaaaaaaaaaa
