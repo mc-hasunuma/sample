@@ -1,8 +1,12 @@
 TEST
 TEST	test01
 
-TEST
+TEST	test02
 
+<<<<<<< HEAD
 あああああああああああああああああああ
 
 test3
+=======
+あああああああああああああああ test4 ああああ
+>>>>>>> origin/test02
